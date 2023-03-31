@@ -1,0 +1,4 @@
+
+# HEART DISEASE PREDICTION USING LOGISTIC REGRESSION
+ The term “heart disease” refers to several types of heart conditions, Heart disease is a general term that means that the heart is not working normally. Babies can be born with heart disease. This is called congenital heart disease. If people get heart disease later, it is called acquired heart disease. Most heart disease is acquired.
+Here am taking the herat disease dataset from the kaggle. The dataset contains 'Age', 'Sex', 'ChestPainType', 'RestingBP', 'Cholesterol', 'FastingBS','RestingECG', 'MaxHR', 'ExerciseAngina', 'Oldpeak', 'ST_Slope', and HeartDisease'. Am done this analyis using the Logistic regression(classification algorithm ) for predicting the person have haert disease or not.
